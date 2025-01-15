@@ -78,6 +78,7 @@ Currently working on advancing through the 42 curriculum and deepening my unders
 - Advanced C programming concepts
 
 ---
+![break](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ6ZzIwOGx1NGszamE2YmhrNDJ3cW1uZmduaTF4b2t0cGx5eGRiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iLMOW1wJp8DuuMoMDY/giphy.gif)
 
 *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
 
@@ -92,20 +93,3 @@ Currently working on advancing through the 42 curriculum and deepening my unders
 
 ---
 © 2024 Jazailac . All Rights Reserved.
-
-```plaintext
-         .-"""-.
-        /       \
-       |         |
-       |         |     *Robot Dance*
-       |         |
-        \       /
-         `-...-'
-      .-'  | |  `-.
-     /     | |     \
-    (     .-.     )
-    |    (   )    |
-    |     `-'     |
-     \     |     /
-      `-.  |  .-'
-         `-'-'
