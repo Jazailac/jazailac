@@ -12,9 +12,9 @@ Software Engineering Student at 1337 MED, passionate about low-level programming
 | ft_printf | ✅ Completed | 100/100 | Recreation of printf function |
 | get_next_line | ✅ Completed | 125/100 | Function that reads a line from a file descriptor |
 | Born2beroot | ✅ Completed | 110/100 | System administration with Linux |
-| pipex | ✅ Completed | 100/100 | Recreation of pipe functionality in Unix systems |
-| so_long | ✅ Completed | 100/100 | 2D game development with MinilibX |
-| push_swap | ✅ Completed | 84/100 | Integer sorting algorithm with limited operations |
+| minitalk | ✅ Completed | 125/100 | Communication program using UNIX signals |
+| push_swap | ✅ Completed | 100/100 | Integer sorting algorithm with limited operations |
+| fract'ol | ✅ Completed | 103/100 | Fractal exploration program with MinilibX |
 | minishell | 🚧 In Progress | - | Implementation of a simple shell, similar to bash |
 | philosophers | 🚧 In Progress | - | Multithreading and synchronization problem |
 
@@ -72,19 +72,13 @@ System administration project showcasing:
 - Service management
 - Bash scripting
 
-### 🔄 pipex
-Unix pipe implementation project featuring:
-- Process creation and management
-- Inter-process communication
-- File descriptor manipulation
-- Command execution
-
-### 🎮 so_long
-2D game development project featuring:
-- Graphics rendering with MinilibX
-- Event handling
-- Game logic implementation
-- Map parsing and validation
+### 📡 minitalk
+Communication program using UNIX signals featuring:
+- Client-server architecture
+- Signal handling
+- Bitwise operations
+- Process communication
+- Real-time data transmission
 
 ### 🔄 push_swap
 Algorithm project for sorting integers with limited operations:
@@ -92,6 +86,14 @@ Algorithm project for sorting integers with limited operations:
 - Sorting algorithm optimization
 - Complexity analysis
 - Operation count minimization
+
+### 🌀 fract'ol
+Fractal exploration program featuring:
+- Complex number mathematics
+- Graphics rendering with MinilibX
+- User interaction and zoom functionality
+- Multiple fractal types (Mandelbrot, Julia, etc.)
+- Color palette management
 
 ### 🚧 Current Projects
 
@@ -131,9 +133,10 @@ Currently working on:
  ┣ 📂 ft_printf
  ┣ 📂 get_next_line
  ┣ 📂 Born2beroot
- ┣ 📂 pipex
+ ┣ 📂 minitalk
  ┣ 📂 so_long
  ┣ 📂 push_swap
+ ┣ 📂 fract'ol
  ┣ 📂 minishell
  ┗ 📂 philosophers
 ```
