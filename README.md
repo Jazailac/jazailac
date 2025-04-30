@@ -13,8 +13,8 @@ Software Engineering Student at 1337 MED, passionate about low-level programming
 | get_next_line | ✅ Completed | 125/100 | Function that reads a line from a file descriptor |
 | Born2beroot | ✅ Completed | 110/100 | System administration with Linux |
 | minitalk | ✅ Completed | 125/100 | Communication program using UNIX signals |
-| push_swap | ✅ Completed | 100/100 | Integer sorting algorithm with limited operations |
-| fract'ol | ✅ Completed | 103/100 | Fractal exploration program with MinilibX |
+| push_swap | ✅ Completed | 108/100 | Integer sorting algorithm with limited operations |
+| fract'ol | ✅ Completed | 100/100 | Fractal exploration program with MinilibX |
 | minishell | 🚧 In Progress | - | Implementation of a simple shell, similar to bash |
 | philosophers | 🚧 In Progress | - | Multithreading and synchronization problem |
 
